@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_MAS245_PATH/package/mas245/Config.in"
+
